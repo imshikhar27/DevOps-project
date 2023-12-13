@@ -27,4 +27,4 @@ services:
       - mysql-data:/var/lib/mysql  # Mount the volume for MySQL data storage
 
 volumes:
-  mysql-data:
+   mysql-data:
